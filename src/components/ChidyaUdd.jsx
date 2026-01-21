@@ -1227,8 +1227,8 @@ const NON_FLYING = [
   { emoji: "🐢", canFly: false }, // Turtle
 ];
 
-const SPEED = 1200; // time between images
-const REACTION_TIME = 500; // time player has to react
+const SPEED = 1800; // time between images
+const REACTION_TIME = 800; // time player has to react
 
 export default function ChidiyaUdd() {
   const [obj, setObj] = useState(null);
