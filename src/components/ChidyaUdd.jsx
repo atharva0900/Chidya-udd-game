@@ -1447,6 +1447,8 @@ export default function ChidiyaUdd() {
             HOW TO PLAY:
           </div>
           <div>
+            Hold the button below to start the game 
+            Game starts after the countdown is over 
             React quickly! Hold for non-flying, release for flying. Wrong answer
             ends the game.
           </div>
